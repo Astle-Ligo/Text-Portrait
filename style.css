@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.portrait{
+    background-image: url(./tree-736885__480.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    /*background-position: center;*/
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:rgba(255, 255, 255, 0.05);
+}
